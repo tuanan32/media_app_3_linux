@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ButtonControl.qml</file>
+        <file>SwitchButton.qml</file>
+        <file>Image_Low_Dpi/album_art.png</file>
+        <file>Image_Low_Dpi/background.png</file>
+        <file>Image_Low_Dpi/Bui-Anh-Tuan.png</file>
+        <file>Image_Low_Dpi/center_point.png</file>
+        <file>Image_Low_Dpi/Ha-Anh-Tuan.png</file>
+        <file>Image_Low_Dpi/hold.png</file>
+        <file>Image_Low_Dpi/hold-next.png</file>
+        <file>Image_Low_Dpi/hold-pause.png</file>
+        <file>Image_Low_Dpi/hold-play.png</file>
+        <file>Image_Low_Dpi/hold-prev.png</file>
+        <file>Image_Low_Dpi/Hongkong1.png</file>
+        <file>Image_Low_Dpi/music.png</file>
+        <file>Image_Low_Dpi/next.png</file>
+        <file>Image_Low_Dpi/pause.png</file>
+        <file>Image_Low_Dpi/Pho_khong_mua_Bui_Anh_Tuan.png</file>
+        <file>Image_Low_Dpi/play.png</file>
+        <file>Image_Low_Dpi/playing.png</file>
+        <file>Image_Low_Dpi/playlist.png</file>
+        <file>Image_Low_Dpi/playlist_item.png</file>
+        <file>Image_Low_Dpi/point.png</file>
+        <file>Image_Low_Dpi/prev.png</file>
+        <file>Image_Low_Dpi/progress_bar.png</file>
+        <file>Image_Low_Dpi/progress_bar_bg.png</file>
+        <file>Image_Low_Dpi/repeat.png</file>
+        <file>Image_Low_Dpi/repeat1_hold.png</file>
+        <file>Image_Low_Dpi/shuffle.png</file>
+        <file>Image_Low_Dpi/shuffle-1.png</file>
+        <file>Image_Low_Dpi/title.png</file>
+        <file>Image_Low_Dpi/USB Mussic.png</file>
+    </qresource>
+</RCC>
